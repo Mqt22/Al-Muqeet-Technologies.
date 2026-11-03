@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mqt22.github.io/Al-Muqeet-Technologies./sitemap.xml
